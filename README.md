@@ -5,6 +5,7 @@ A collection of my data analytics projects using Python, SQL, and Power BI.
 ![Python](https://img.shields.io/badge/Python-Beginner-blue?style=for-the-badge&logo=python)
 ![SQL](https://img.shields.io/badge/SQL-Intermediate-lightgrey?style=for-the-badge&logo=mysql)
 ![Machine Learning](https://img.shields.io/badge/ML-Basics-orange?style=for-the-badge&logo=google)
+
                                       
 📊 HR Analytics Dashboard – Power BI
 
