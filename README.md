@@ -7,7 +7,7 @@ A collection of my data analytics projects using Python, SQL, and Power BI.
 ![Machine Learning](https://img.shields.io/badge/ML-Basics-orange?style=for-the-badge&logo=google)
                                             
 ## 📑 Table of Contents
-- [Overview](#-project-overview)
+- [Overview](#-overview)
 - [Project Files](#-project-files)
 - [Tools Used](#-tools--technologies)
 - [Dataset Fields](#-dataset-columns-used)
@@ -15,6 +15,7 @@ A collection of my data analytics projects using Python, SQL, and Power BI.
 - [Screenshots](#-dashboard-preview)
 - [What I Learned](#-what-i-learned)
 - [About Me](#-about-me)
+
 
 
 📊 HR Analytics Dashboard – Power BI
