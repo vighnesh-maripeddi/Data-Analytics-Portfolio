@@ -5,19 +5,7 @@ A collection of my data analytics projects using Python, SQL, and Power BI.
 ![Python](https://img.shields.io/badge/Python-Beginner-blue?style=for-the-badge&logo=python)
 ![SQL](https://img.shields.io/badge/SQL-Intermediate-lightgrey?style=for-the-badge&logo=mysql)
 ![Machine Learning](https://img.shields.io/badge/ML-Basics-orange?style=for-the-badge&logo=google)
-                                            
-## 📑 Table of Contents
-- [Overview](#-overview)
-- [Project Files](#-project-files)
-- [Tools Used](#-tools--technologies)
-- [Dataset Fields](#-dataset-columns-used)
-- [Key Insights](#-key-insights-from-dashboard)
-- [Screenshots](#-dashboard-preview)
-- [What I Learned](#-what-i-learned)
-- [About Me](#-about-me)
-
-
-
+                                      
 📊 HR Analytics Dashboard – Power BI
 
 A complete HR Analytics dashboard built using Power BI, designed to help organizations understand employee attrition, salary distribution, job satisfaction, and overall workforce insights.
