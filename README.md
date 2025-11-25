@@ -6,6 +6,8 @@ A collection of my data analytics projects using Python, SQL, and Power BI.
 ![SQL](https://img.shields.io/badge/SQL-Intermediate-lightgrey?style=for-the-badge&logo=mysql)
 ![Machine Learning](https://img.shields.io/badge/ML-Basics-orange?style=for-the-badge&logo=google)
 
+<br>
+
                                       
 📊 HR Analytics Dashboard – Power BI
 
@@ -31,12 +33,16 @@ Demographic insights (Age, Gender, Education, Marital Status, etc.)
 
 The goal of this project is to help HR teams make data-driven decisions to reduce attrition and improve employee experience.
 
+<br>
+
 📂 Project Files
 HR_Analytics/
 │── HR_Analytics.pbix      → Complete Power BI Dashboard
 │── Dataset/               → Raw dataset (if included)
 │── Screenshots/           → Dashboard screenshots
 │── README.md              → Documentation
+
+<br>
 
 🛠 Tools & Technologies
 
@@ -50,22 +56,52 @@ DAX Measures
 
 Data Visualization
 
+<br>
+
 📁 Dataset Columns Used
 
 Key fields analyzed include:
 EmpID, Age, AgeGroup, Attrition, BusinessTravel, DailyRate, Department, DistanceFromHome, Education, EducationField, EmployeeCount, EnvironmentSatisfaction, Gender, HourlyRate, JobLevel, JobRole, JobSatisfaction, MaritalStatus, MonthlyIncome, SalarySlab, MonthlyRate, NumCompaniesWorked, OverTime, PercentSalaryHike, PerformanceRating, RelationshipSatisfaction, TotalWorkingYears, YearsAtCompany, YearsInCurrentRole, YearsSinceLastPromotion, WorkLifeBalance, YearsWithCurrManager.
 
+<br>
+
 📈 Key Insights from Dashboard
+<br>
+Repeat customers contribute the highest revenue, but the number of repeat customers is low.
 
-Employees with lower salary slabs showed higher attrition rates.
+Most customers purchase only once, showing issues with retention.
 
-Employees working overtime are more likely to leave.
+High returns observed in certain product categories.
 
-Attrition is higher in early careers (0–5 years).
+Customers aged 20–35 form the largest buying group.
 
-Sales & R&D departments showed the highest attrition.
+North & West regions show maximum sales, while others underperform.
 
-Job satisfaction and work–life balance heavily impact retention.
+Marketing spend is high but conversion rate is low in certain campaigns.
+
+<br>
+
+🛠 Recommended Solutions
+For HR Insights
+✔️ Reduce Attrition
+
+Introduce employee engagement programs for 25–35 age group.
+
+Provide mentorship & training for employees with 1–3 years of experience.
+
+Review salary alignment based on industry standards.
+
+Implement No-Overtime policies or flexible working hours.
+
+✔️ Improve Job Satisfaction
+
+Conduct monthly surveys for Sales & Support teams.
+
+Create career development plans and recognition programs.
+
+Offer stress-relief activities and break-time options.
+
+<br>
 
 📌 Features of the Dashboard
 
@@ -74,6 +110,8 @@ Job satisfaction and work–life balance heavily impact retention.
 ✔ Visuals like bar charts, funnel charts, donut charts, KPIs
 ✔ Fully dynamic and drillable insights
 ✔ Attrition analysis by salary, department, experience, and overtime
+
+<br>
 
 📸 Dashboard Preview
 
@@ -98,5 +136,7 @@ Publishing and documenting Power BI projects
 
 I am Vighnesh Maripeddi, an aspiring Data Analyst intern, currently pursuing BSc.IT (3rd Year).
 I work with Python, SQL, Power BI, and beginner-level Machine Learning.
+
+<br>
 
 ⭐ If you like this project, consider giving it a star!
