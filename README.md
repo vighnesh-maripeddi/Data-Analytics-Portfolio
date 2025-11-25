@@ -78,10 +78,8 @@ Job satisfaction and work–life balance heavily impact retention.
 📸 Dashboard Preview
 
 Screenshots/
+<img width="1180" height="723" alt="Screenshot 2025-11-25 182853" src="https://github.com/user-attachments/assets/24147309-bd9f-454c-994d-b80f603a698f" />
 
-<img width="1284" height="719" alt="Screenshot-1" src="https://github.com/user-attachments/assets/24609b68-2ec8-412b-af8b-2e0286e872c9" />
-<img width="1287" height="712" alt="Screenshot-2" src="https://github.com/user-attachments/assets/59c419a0-472c-4b73-9f00-b2d1f646c522" />
-<img width="1271" height="719" alt="Screenshot -3" src="https://github.com/user-attachments/assets/7bee4ad1-2ac6-4e38-9533-dea6893a62f5" />
 
 
 🧠 What I Learned
